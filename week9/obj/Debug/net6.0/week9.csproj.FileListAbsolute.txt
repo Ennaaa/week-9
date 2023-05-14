@@ -1,0 +1,15 @@
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\bin\Debug\net6.0\week9.exe
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\bin\Debug\net6.0\week9.deps.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\bin\Debug\net6.0\week9.runtimeconfig.json
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\bin\Debug\net6.0\week9.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\bin\Debug\net6.0\week9.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.csproj.AssemblyReference.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.AssemblyInfoInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.AssemblyInfo.cs
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.csproj.CoreCompileInputs.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\refint\week9.dll
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.pdb
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\week9.genruntimeconfig.cache
+C:\Users\denys\OneDrive\Рабочий стол\Week1FirstApp\week9\week9\obj\Debug\net6.0\ref\week9.dll
